@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\regre\\Music\\StoreApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8FCCE3B7-BF1D-4F8D-A648-5611C7BC8D7D}|StoreApi\\StoreApi.csproj|c:\\users\\regre\\music\\storeapi\\storeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8FCCE3B7-BF1D-4F8D-A648-5611C7BC8D7D}|StoreApi\\StoreApi.csproj|solutionrelative:storeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8FCCE3B7-BF1D-4F8D-A648-5611C7BC8D7D}|StoreApi\\StoreApi.csproj|c:\\users\\regre\\music\\storeapi\\storeapi\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FCCE3B7-BF1D-4F8D-A648-5611C7BC8D7D}|StoreApi\\StoreApi.csproj|solutionrelative:storeapi\\controllers\\storescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -90,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,7 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Dockerfile",
+              "RelativeDocumentMoniker": "StoreApi\\Dockerfile",
+              "ToolTip": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Dockerfile",
+              "RelativeToolTip": "StoreApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-17T11:02:46.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Services\\Implementations\\UserService.cs",
               "RelativeDocumentMoniker": "StoreApi\\Services\\Implementations\\UserService.cs",
@@ -134,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StoresController.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Controllers\\StoresController.cs",
               "RelativeDocumentMoniker": "StoreApi\\Controllers\\StoresController.cs",
@@ -147,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "StoreApi\\Controllers\\AuthController.cs",
@@ -155,12 +172,11 @@
               "RelativeToolTip": "StoreApi\\Controllers\\AuthController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T07:08:39.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T07:08:39.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\appsettings.json",
               "RelativeDocumentMoniker": "StoreApi\\appsettings.json",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthorizeAttribute.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Filters\\AuthorizeAttribute.cs",
               "RelativeDocumentMoniker": "StoreApi\\Filters\\AuthorizeAttribute.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IStoreService.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Services\\Interfaces\\IStoreService.cs",
               "RelativeDocumentMoniker": "StoreApi\\Services\\Interfaces\\IStoreService.cs",
@@ -196,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ValidateModelAttribute.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Filters\\ValidateModelAttribute.cs",
               "RelativeDocumentMoniker": "StoreApi\\Filters\\ValidateModelAttribute.cs",
@@ -208,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Services\\Implementations\\AuthService.cs",
               "RelativeDocumentMoniker": "StoreApi\\Services\\Implementations\\AuthService.cs",
@@ -220,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "StoreApi\\Controllers\\UsersController.cs",
@@ -232,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Program.cs",
               "RelativeDocumentMoniker": "StoreApi\\Program.cs",
@@ -244,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "TokenManager.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Utilities\\TokenManager.cs",
               "RelativeDocumentMoniker": "StoreApi\\Utilities\\TokenManager.cs",
@@ -256,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "StoreService.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Services\\Implementations\\StoreService.cs",
               "RelativeDocumentMoniker": "StoreApi\\Services\\Implementations\\StoreService.cs",
@@ -268,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "StoreApi\\Services\\Interfaces\\IUserService.cs",
@@ -280,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "StoreApi\\Services\\Interfaces\\IAuthService.cs",
@@ -292,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "StoreApi\\Models\\User.cs",
@@ -304,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Token.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Models\\Token.cs",
               "RelativeDocumentMoniker": "StoreApi\\Models\\Token.cs",
@@ -316,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Store.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Models\\Store.cs",
               "RelativeDocumentMoniker": "StoreApi\\Models\\Store.cs",
@@ -328,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Middleware\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "StoreApi\\Middleware\\RequestLoggingMiddleware.cs",
@@ -340,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "StoreApi.http",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\StoreApi.http",
               "RelativeDocumentMoniker": "StoreApi\\StoreApi.http",
@@ -352,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\regre\\Music\\StoreApi\\StoreApi\\Program.cs",
               "RelativeDocumentMoniker": "StoreApi\\Program.cs",
